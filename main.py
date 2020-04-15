@@ -1,3 +1,4 @@
+import codecs
 import logging
 import subprocess
 from ulauncher.api.client.Extension import Extension
@@ -19,7 +20,8 @@ class MyIpExtension(Extension):
 class KeywordQueryEventListener(EventListener):
 
     def on_event(self, event, extension):
-        ip = subprocess.check_output(["dig", "-4", "@resolver1.opendns.com", "ANY", "myip.opendns.com", "+short"]).encode('utf8').strip()
+
+        ip = subprocess.check_output(["dig", "-4", "@resolver1.opendns.com", "ANY", "myip.opendns.com", "+short"]).decode('utf8').encode('ascii').strip()
         logger.debug('Got external ip: %s', ip)
 
         items = []
