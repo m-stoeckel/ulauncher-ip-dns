@@ -1,0 +1,766 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vec",
+				"vec_out_path"
+			],
+			[
+				"cite",
+				"\\cite{keylist}                                    \tlatex-document"
+			],
+			[
+				"sec",
+				"\\section{title}                                   \tlatex-document"
+			],
+			[
+				"ri",
+				"\\right                                            \ttex"
+			],
+			[
+				"left",
+				"\\left(                                            \tlatex-document"
+			],
+			[
+				"newcom",
+				"\\newcommand{cmd}[args]{def}                       \tlatex-document"
+			],
+			[
+				"rig",
+				"\\right]                                           \tlatex-document"
+			],
+			[
+				"fac",
+				"factorial"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 1422,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 374,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 13,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit r",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git com",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntax text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"ali\t",
+				"AlignTab"
+			],
+			[
+				"syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax bib",
+				"Set Syntax: BibLaTeX"
+			],
+			[
+				"syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"synpy",
+				"Set Syntax: Python"
+			],
+			[
+				"a",
+				"AlignTab"
+			],
+			[
+				"al",
+				"AlignTab"
+			],
+			[
+				"syn bash",
+				"Set Syntax: Bourne Again Shell (bash)"
+			],
+			[
+				"al\t",
+				"AlignTab"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"clean aux",
+				"LaTeXTools: Clear current bibliography cache"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"linst",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"syntax",
+				"Set Syntax: Pascal"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python3"
+			],
+			[
+				"rmove",
+				"Package Control: Remove Channel"
+			],
+			[
+				"count",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"resour",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"colorsc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"remove\t",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"run",
+				"Anaconda: Run Current Test"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"syn",
+				"Set Syntax: Python3"
+			],
+			[
+				"syn pyhon",
+				"Set Syntax: Python3"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"linter",
+				"Anaconda: Next lint error"
+			],
+			[
+				"anaconda re",
+				"Anaconda: Previous lint error"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"Anaconda",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+			"window.run_command(\"edit_settings\", {\"base_file\": \"${packages}/Default/Default ($platform).sublime-mousemap\", \"default\": \"[\\n\\t$0\\n]\\n\"})"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/manu/Projects/ulauncher-ip-dns",
+		"/home/manu/Projects/ulauncher-ip-dns/images"
+	],
+	"file_history":
+	[
+		"/home/manu/Projects/ulauncher-ip-dns/versions.json",
+		"/home/manu/Projects/ulauncher-ip-dns/README.md",
+		"/home/manu/Projects/ulauncher-ip-dns/.flake8",
+		"/home/manu/Documents/Sent_20200407-0044/Sent_20200407-0044.txt",
+		"/home/manu/.config/sublime-text-3/Packages/User/LanguageTool.sublime-settings",
+		"/home/manu/Projects/python-sample-code/binary_trees/binary_search_tree.py",
+		"/home/manu/Documents/temp.json",
+		"/home/manu/Projects/python-sample-code/binary_trees/__init__.py",
+		"/home/manu/Projects/python-sample-code/docs/source/modules.rst",
+		"/home/manu/Projects/python-sample-code/docs/source/index.rst",
+		"/home/manu/Documents/LT4HALA-Paper/lt4hala-pos.bib",
+		"/tmp/mozilla_manu0/P18-1246.bib",
+		"/home/manu/Documents/LT4HALA-Paper/colors.tex",
+		"/home/manu/.config/sublime-text-3/Packages/AutoSpell/AutoSpell.sublime-settings",
+		"/home/manu/.config/sublime-text-3/Packages/User/AutoSpell.sublime-settings",
+		"/home/manu/Documents/LT4HALA-Paper/main.tex",
+		"/home/manu/.config/sublime-text-3/Packages/LaTeXTools/Text emphasize.sublime-snippet",
+		"/home/manu/Documents/LT4HALA-Paper/languageresource.bib",
+		"/home/manu/.config/sublime-text-3/Packages/LaTeXTools/Default (Linux).sublime-keymap",
+		"/home/manu/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/tmp/mozilla_manu0/N18-1202.bib",
+		"/home/manu/Documents/LT4HALA-Paper/lrec.sty",
+		"/home/manu/Documents/LT4HALA-Paper/lrec.bst",
+		"/home/manu/Documents/LT4HALA-Paper/languageresource.blg",
+		"/media/manu/7E862B36862AEDF9/Users/Manu/AppData/Roaming/Sublime Text 3/Packages/LanguageTool/LanguageTool.py",
+		"/mnt/storage/LanguageTool-4.8/testrules.sh",
+		"/mnt/storage/LanguageTool-4.8/org/languagetool/rules/en/indent.sh",
+		"/media/manu/7E862B36862AEDF9/Users/Manu/AppData/Roaming/Sublime Text 3/Packages/LanguageTool/README.md",
+		"/media/manu/7E862B36862AEDF9/Users/Manu/AppData/Roaming/Sublime Text 3/Packages/LanguageTool/LanguageTool.sublime-settings",
+		"/home/manu/.config/sublime-text-3/Packages/languagetool-sublime/LanguageTool.sublime-settings",
+		"/home/manu/Documents/LT4HALA-Paper/commons.tex",
+		"/media/manu/7E862B36862AEDF9/Users/Manu/AppData/Roaming/Sublime Text 3/Packages/User/HighlightWords.sublime-settings",
+		"/home/manu/.config/sublime-text-3/Packages/User/HighlightWords.sublime-settings",
+		"/home/manu/.local/bin/languagetool-server.sh",
+		"/home/manu/.local/bin/languagetool-server",
+		"/home/manu/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+		"/home/manu/.config/sublime-text-3/Packages/LanguageTool/LanguageTool.py",
+		"/home/manu/Documents/LT4HALA-Paper/LT4HALA.sublime-project",
+		"/home/manu/.config/sublime-text-3/Packages/LanguageTool/Default (Linux).sublime-keymap",
+		"/home/manu/Projects/SSEI/datasets/validation/6/labels.json",
+		"/home/manu/Projects/SSEI/datasets/validation/5/labels.json",
+		"/home/manu/Projects/SSEI/datasets/real/6/labels.json",
+		"/home/manu/Projects/SSEI/datasets/real/5/labels.json",
+		"/home/manu/Projects/SSEI/datasets/real/1/labels.json",
+		"/home/manu/Projects/SSEI/datasets/real/3/labels.json",
+		"/home/manu/Projects/SSEI/datasets/real/2/labels.json",
+		"/home/manu/Projects/SSEI/datasets/validation/2/labels.json",
+		"/home/manu/Projects/SSEI/datasets/validation/4/labels.json",
+		"/home/manu/Projects/SSEI/datasets/real/23/labels.json",
+		"/home/manu/Projects/SSEI/datasets/real/24/labels.json",
+		"/home/manu/Projects/SSEI/datasets/real/58/labels.json",
+		"/home/manu/Projects/SSEI/datasets/real/8/labels.json",
+		"/home/manu/Projects/SSEI/datasets/validation/1/labels.json",
+		"/home/manu/Projects/SSEI/datasets/validation/3/labels.json",
+		"/home/manu/Projects/SSEI/datasets/real/labels.txt",
+		"/home/manu/Projects/SSEI/datasets/real/54/labels.json",
+		"/home/manu/Projects/SSEI/datasets/real/37/labels.json",
+		"/home/manu/Projects/SSEI/datasets/real/68/labels.json",
+		"/home/manu/Pictures/mock/7/labels.json",
+		"/home/manu/Projects/SSEI/datasets/validation/9/labels.json",
+		"/home/manu/Projects/SSEI/datasets/labels.txt",
+		"/home/manu/Projects/SSEI/datasets/validation/8/labels.json",
+		"/home/manu/Pictures/mock/6/labels.json",
+		"/home/manu/Pictures/mock/5/labels.json",
+		"/home/manu/Pictures/mock/3/labels.json",
+		"/home/manu/Pictures/mock/1/label.json",
+		"/home/manu/Projects/opencv-3.4.9/CMakeLists.txt",
+		"/home/manu/.local/bin/grub-reboot2win.sh",
+		"/home/manu/Projects/SSEI/datasets/LICENSE",
+		"/home/manu/.profile",
+		"/usr/local/bin/arara",
+		"/home/manu/.bashrc",
+		"/media/manu/7E862B36862AEDF9/Users/Manu/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/home/manu/.bashrc",
+		"/mnt/storage/PowerFolders/Literatur/Veranstaltungen/Machine Learning 1/WS19-20/Summary/definitions-and-markup.tex",
+		"/mnt/storage/PowerFolders/Literatur/Veranstaltungen/Machine Learning 1/WS19-20/Summary/summary.tex",
+		"/home/manu/Desktop/Boot to Windows 10.desktop",
+		"/mnt/storage/PowerFolders/Literatur/Veranstaltungen/Machine Learning 1/WS19-20/Summary/summary.log",
+		"/tmp/ark-NDBvMv/Main.sublime-menu",
+		"/tmp/ark-JLOPwk/beautify_latex.py",
+		"/home/manu/.config/sublime-text-3/Packages/User/BeautifyLatex.sublime-settings",
+		"/home/manu/.config/sublime-text-3/Packages/BeautifyLatex/BeautifyLatex.sublime-settings",
+		"/home/manu/.config/sublime-text-3/Packages/BeautifyLatex/Default (Linux).sublime-keymap",
+		"/mnt/storage/PowerFolders/Literatur/Veranstaltungen/Machine Learning 1/WS19-20/Summary/commons.tex",
+		"/mnt/storage/PowerFolders/Literatur/Veranstaltungen/Machine Learning 1/WS19-20/Summary/deeplearning_operators.tex",
+		"/mnt/storage/PowerFolders/Literatur/Veranstaltungen/Machine Learning 1/WS19-20/Summary/summary.md",
+		"/home/manu/.conky/conky-startup.sh",
+		"/home/manu/Documents/prob.py",
+		"/home/manu/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/manu/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/mnt/storage/PowerFolders/Literatur/Veranstaltungen/Machine Learning 1/WS19-20/Exercises/Exercise6/predictive_dist.py"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'",
+			"(\\d+).*",
+			"(\\d+)",
+			"/.*",
+			"To:",
+			"0.(\\d{2})(\\d{2})\\n?",
+			"0.(\\d{2})(\\d{2})\\n",
+			"\\n",
+			"0.(\\d{2})(\\d{2})",
+			"\\n",
+			"0.(\\d{2})(\\d{2})",
+			"\\t",
+			"o",
+			"echo \"([^p])",
+			"(_\\d_closed)(_ttlab_\\d_closed)",
+			"(_\\d_closed)(ttlab_\\d_closed)",
+			"(_\\d_closed)(_\\d_closed)",
+			"(_\\d_closed)",
+			"(python conll18_ud_eval_EvaLatin.py.*)(\\.conllu)",
+			"$1",
+			"Lanugage",
+			"sec:corpora",
+			"\")\n",
+			"embeddings",
+			"output_dir='/resources/public/stoeckel/Latein/meta_tagger/meta_upos/80-20/'",
+			"$1",
+			"(python conll18_ud_eval_EvaLatin.py (.*) (\\$1.*))",
+			"--test='conll18_ud_eval_EvaLatin.py ",
+			"/meta_tagger/ test_cw.py",
+			"(python (.*) (\\$1.*))",
+			"python (.*) (\\$1.*)",
+			"\\n",
+			"0.(\\d{2})(\\d{2})",
+			"            \n",
+			"^$\\n",
+			"bibtex",
+			"languageresource",
+			"\n\\bibliographylanguageresource{languageresource}",
+			"}\n",
+			"cite",
+			"loadIgnoredRules",
+			"Hein",
+			"closed modality",
+			"ctrl+i",
+			"&",
+			"%\n",
+			"0.(\\d{2})(\\d{2})",
+			"(\\d.\\d+)$\\s*",
+			"0.(\\d{2})(\\d{2})",
+			"(\\d.\\d+)$\\s*",
+			"%",
+			"\n\n\\begin{table*}[ht]\n\t\\scriptsize\n\t\\nprounddigits{0}  % numprint: round to 0 digits\n\t\\begin{tabularx}{\\linewidth}{Xrrrrrrrrrrrrrrr}%la%\n\t\t\\toprule\n\t\t &\\textbf{ADJ} & \\textbf{ADP} &\\textbf{ADV}&\\textbf{AUX}&\\textbf{CCONJ}&\\textbf{DET}&\\textbf{INTJ}&\\textbf{NOUN}&\\textbf{NUM}&\\textbf{PART}&\\textbf{PRON}&\\textbf{PROPN}&\\textbf{SCONJ}&\\textbf{VERB}&\\textbf{X}\\\\\n\t\t\\midrule & \\\\\n\t\t\n        UDPipe & \\numprint[\\%]{70.11} & \\numprint[\\%]{97.16} & \\numprint[\\%]{68.02} & \\numprint[\\%]{36.49} & \\numprint[\\%]{90.13} & \\numprint[\\%]{88.53} & \\numprint[\\%]{50.00} & \\numprint[\\%]{92.80} & \\numprint[\\%]{96.76} & \\numprint[\\%]{99.78} & \\numprint[\\%]{82.00} & \\numprint[\\%]{97.83} & \\numprint[\\%]{72.02} & \\numprint[\\%]{86.26} & --- \\\\\n        UDify & \\numprint[\\%]{73.96} & \\numprint[\\%]{97.92} & \\numprint[\\%]{67.81} & \\numprint[\\%]{46.35} & \\numprint[\\%]{90.04} & \\numprint[\\%]{86.99} & \\numprint[\\%]{00.00} & \\numprint[\\%]{95.03} & \\numprint[\\%]{97.00} & \\numprint[\\%]{100} & \\numprint[\\%]{84.57} & \\numprint[\\%]{93.25} & \\numprint[\\%]{76.43} & \\numprint[\\%]{88.20} & --- \\\\\n        VoterV2 & \\numprint[\\%]{73.28} & \\numprint[\\%]{97.86} & \\numprint[\\%]{68.50} & \\numprint[\\%]{42.67} & \\numprint[\\%]{90.18} & \\numprint[\\%]{89.03} & \\numprint[\\%]{100} & \\numprint[\\%]{93.52} & \\numprint[\\%]{97.14} & \\numprint[\\%]{100} & \\numprint[\\%]{84.31} & \\numprint[\\%]{94.77} & \\numprint[\\%]{73.86} & \\numprint[\\%]{87.75} & --- \\\\\n        \\midrule\n\t\t\\bottomrule\n\t\\end{tabularx}\n\t\\caption{F-Score per POS per Tool Cross-Time} %\\textcolor{cyan}{in the corpus usesd for evaluation}.}\n\t\\label{tab:fscore_per_tool}\n\\end{table*}",
+			"(0.\\d+)$\\s*",
+			"(0.\\d+)$\\n",
+			"(0.\\d+)\\n?"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"",
+			"iptables -A INPUT -p tcp -m tcp --dport \\1 -j REJECT",
+			"",
+			"\\\\numprint[\\\\%]{\\1.\\2} & ",
+			"",
+			"\\\\numprint[\\\\%]{\\1.\\2} & ",
+			"",
+			"\\\\numprint[\\\\%]{\\1.\\2} & ",
+			"    ",
+			"echo \"pos_classical_\\1",
+			"\\1",
+			"_ttlab\\1",
+			"ttlab_\\1",
+			"echo \"1_closed\"\\n\\1_1_closed\\2\\necho \"2_closed\"\\n\\1_2_closed\\2\\necho \"3_closed\"\\n\\1_3_closed\\2\\n",
+			"\\1_1_closed\\2\\n\\1_2_closed\\2\\n\\1_3_closed\\2\\n",
+			"/resources/public/henlein/LT4HALA_-_Projekt/AbgabeFormatiert",
+			"Language",
+			"sec:Historical Corpora",
+			"output_dir='meta_upos/80-20/'",
+			"/resources/public/stoeckel/Latein/results/meta-80-20",
+			"python test_cw.py --test='\\2' --task='upos' --output_dir='/resources/public/stoeckel/Latein/meta_tagger/meta_upos/80-20/' --out='\\3'",
+			"python /resources/public/stoeckel/Latein/meta_tagger/test_cw.py --test='\\2' --task='upos' --output_dir='/resources/public/stoeckel/Latein/meta_tagger/meta_upos/80-20/' --out='\\3'",
+			"python /resources/public/stoeckel/Latein/meta_tagger/test_cw.py --test='\\2' --task='upos' --output_dir='/resources/public/stoeckel/Latein/meta_tagger/meta_upos/80-20/' --out='\\3' 1> /dev/null && \\1",
+			"python /resources/public/stoeckel/Latein/meta_tagger/test_cw.py --test='\\2' --task='upos' --output_dir='/resources/public/stoeckel/Latein/meta_tagger/meta_upos/80-20/' --out='\\3' > 1/dev/null && \\1",
+			"python /resources/public/stoeckel/Latein/meta_tagger/test_cw.py --test='\\2' --task='upos' --output_dir='/resources/public/stoeckel/Latein/meta_tagger/meta_upos/80-20/' --out='\\3' > /dev/null & \\1",
+			"python /resources/public/stoeckel/Latein/meta_tagger/ test_cw.py --test='\\2' --task='upos' --output_dir='/resources/public/stoeckel/Latein/meta_tagger/meta_upos/80-20/' --out='\\3' > /dev/null & \\1",
+			"python /resources/public/stoeckel/Latein/meta_tagger/ test_cw.py --test='\\2' --task='upos' --output_dir='/resources/public/stoeckel/Latein/meta_tagger/meta_upos/80-20/' --out='\\3' > /dev/null \\n\\1",
+			"--test='",
+			"/meta_tagger/test_cw.py",
+			"python /resources/public/stoeckel/Latein/meta_tagger/ test_cw.py  --task='upos' --output_dir='/resources/public/stoeckel/Latein/meta_tagger/meta_upos/80-20/' --test='\\2' --out='\\3' > /dev/null \\n\\1",
+			"\\1 \\npython /resources/public/stoeckel/Latein/meta_tagger/ test_cw.py  --task='upos' --output_dir='/resources/public/stoeckel/Latein/meta_tagger/meta_upos/80-20/' --test='\\2' --out='\\3' > /dev/null",
+			"python /resources/public/stoeckel/Latein/meta_tagger/ test_cw.py  --task='upos' --output_dir='/resources/public/stoeckel/Latein/meta_tagger/meta_upos/80-20/' --test='\\1' --out='\\2' > /dev/null",
+			"",
+			"\\\\numprint[\\\\%]{\\1.\\2} & ",
+			"",
+			"\\1.\\2",
+			"\\\\numprint[\\\\%]{\\1} & ",
+			"\\\\%",
+			"\\\\numprint[\\%]{\\1} & ",
+			"\\numprint[\\%]{\\1} & "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1422,
+								1422
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "manifest.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 13,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 132.0
+	},
+	"output.languagetool":
+	{
+		"height": 132.0
+	},
+	"output.latextools":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "ip-by-dns.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 277.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

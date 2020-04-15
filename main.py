@@ -21,7 +21,7 @@ class KeywordQueryEventListener(EventListener):
 
     def on_event(self, event, extension):
 
-        ip = subprocess.check_output(["dig", "-4", "@resolver1.opendns.com", "ANY", "myip.opendns.com", "+short"]).decode('utf8').encode('ascii').strip()
+        ip = subprocess.check_output(["dig", "-4", "@resolver1.opendns.com", "ANY", "myip.opendns.com", "+short"]).decode("utf-8").strip()
         logger.debug('Got external ip: %s', ip)
 
         items = []
