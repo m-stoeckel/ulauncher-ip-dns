@@ -1,0 +1,15 @@
+{
+    "required_api_version": "^2.0.0",
+    "name": "IP by DNS Lookup",
+    "description": "Get your current ip by DNS lookup",
+    "developer_name": "Manuel Stoeckel",
+    "icon": "images/icon.png",
+    "preferences": [
+        {
+            "id": "ip_kw",
+            "type": "keyword",
+            "name": "IP by DNS",
+            "default_value": "ip"
+        }
+    ]
+}
