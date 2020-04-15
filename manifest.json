@@ -6,10 +6,27 @@
     "icon": "images/icon.png",
     "preferences": [
         {
-            "id": "ip_kw",
+            "id": "ip4_kw",
             "type": "keyword",
-            "name": "IP by DNS",
+            "name": "Get IP4 by DNS lookup",
             "default_value": "ip"
+        },
+        {
+            "id": "ip6_kw",
+            "type": "keyword",
+            "name": "Get IP6 by DNS lookup",
+            "default_value": "ip6"
+        },
+        {
+            "id": "provider",
+            "type": "select",
+            "name": "DNS provider to query",
+            "default_value": "opendns",
+            "options": [
+                {"value": "opendns", "text": "OpenDNS"},
+                {"value": "google", "text": "Google"},
+                {"value": "akamai", "text": "Akamai (IP4 only)"}
+            ]
         }
     ]
 }
