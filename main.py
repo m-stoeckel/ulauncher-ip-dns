@@ -12,10 +12,10 @@ from ulauncher.api.shared.action.CopyToClipboardAction import CopyToClipboardAct
 logger = logging.getLogger(__name__)
 
 
-class MyIpExtension(Extension):
+class IpByDnsLookup(Extension):
 
     def __init__(self):
-        super(MyIpExtension, self).__init__()
+        super(IpByDnsLookup, self).__init__()
         self.subscribe(KeywordQueryEvent, KeywordQueryEventListener())
 
 
@@ -56,4 +56,4 @@ class KeywordQueryEventListener(EventListener):
 
 
 if __name__ == '__main__':
-    MyIpExtension().run()
+    IpByDnsLookup().run()
